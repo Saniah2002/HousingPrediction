@@ -1,4 +1,3 @@
-Project members: Saniah Safat, Rachana Pandey
 In our project, we are looking into a dataset from Kagglethat gives us a lot of information on house prices, like how big the houses are, how many bedrooms they have, 
 and where they are located. Our main goal is to perform EDA, regression, and classification on the data to understand and predict housing prices better. Crucially, we 
 begin our investigation with an extensive Exploratory Data Analysis (EDA) phase. This initial step allows us to thoroughly examine the dataset, identifying key patterns, 
